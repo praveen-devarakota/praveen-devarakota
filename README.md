@@ -1,28 +1,31 @@
 <div align="center">
 
 # Praveen Devarakota
+### Backend Developer · Java & Python · Building APIs That Scale
 
-**Backend Developer · Python & Java · Building real-world APIs**
+*"I don't just write code — I build systems that work."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-devarakota)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-devarakota/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveen-devarakota)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/praveen2006/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsrisaipraveen@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode_167+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/praveen2006/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsrisaipraveen@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-B.Tech Information Technology student at **VRSEC, Vijayawada** with hands-on experience building backend systems using **Python (Flask)**, **Java (Spring Boot)**, and **REST APIs**.
+B.Tech IT student at **VR Siddhartha Engineering College** (2023–2027) who loves designing
+clean backend systems and shipping things that actually work in production.
 
-I enjoy turning complex problems into clean, efficient backend solutions — and I'm actively levelling up in **FastAPI** and **DSA**.
-
-- 🎯 Currently focused on **Backend Development** and **Data Structures & Algorithms**
-- 🧩 Solved **167+ problems on LeetCode**
-- 🌱 Learning **FastAPI** for production-grade API development
-- 💬 Ask me about REST APIs, Flask, Spring Boot, or backend architecture
+- 🔧 Built REST APIs with **Flask, Spring Boot, FastAPI, and Express.js**
+- 🧠 **167+ LeetCode problems** solved — DSA is a daily habit
+- 🌍 Deployed a live **geospatial web app** powered by Google Earth Engine
+- 🚀 Currently sharpening **FastAPI** and system design
+- 💼 Actively looking for a **Backend Intern** role — ready from Day 1
 
 ---
 
@@ -30,39 +33,56 @@ I enjoy turning complex problems into clean, efficient backend solutions — and
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python,java,javascript,html,css)
+[![Skills](https://skillicons.dev/icons?i=java,c,python,js,html,css)](https://skillicons.dev)
 
-**Frameworks & Tools**
+**Frameworks & Runtime**
 
-![Frameworks](https://skillicons.dev/icons?i=flask,spring,react,tailwind,mysql,mongodb,git,github,vscode,postman)
+[![Skills](https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs,express,react,tailwind)](https://skillicons.dev)
+
+**Databases & Tools**
+
+[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode,idea)](https://skillicons.dev)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🛰️ [Satellite Indices Viewer](https://satellite-indices-viewer.vercel.app/)
-> Geospatial web app built with **Flask** that visualizes satellite-derived indices (NDVI, NDWI, NDMI) via REST APIs.
+### 🌍 [Satellite Indices Viewer](https://satellite-indices-viewer.vercel.app/)
+> Live geospatial web app for visualizing NDVI, NDWI & NDMI satellite indices
+
+- Served satellite data through **Flask REST API** endpoints as structured JSON
 - Integrated **Google Earth Engine** for real-time vegetation and water body analysis
-- Designed backend data pipeline returning structured **JSON responses**
-- Deployed live on **Vercel**
+- Full pipeline: satellite data → backend processing → frontend visualization → deployed on Vercel
 
-`Python` `Flask` `REST API` `Google Earth Engine` `JavaScript`
+`Python` `Flask` `REST API` `Google Earth Engine` `Vercel`
 
 ---
 
-### 🏫 [School Management System](https://github.com/praveen-devarakota)
-> RESTful backend for managing students, teachers, classes, and attendance.
-- **JWT authentication** with role-based access (admin / teacher / student)
-- Relational schema design with **MySQL**; all endpoints tested via **Postman**
+### 🏫 [School Management System](https://github.com/praveen-devarakota/school-management-system)
+> End-to-end backend for managing students, teachers, classes & attendance
+
+- **RESTful APIs** built with **Spring Boot**, secured with **JWT authentication**
+- **Role-based access control** for admin, teachers, and students
+- Normalized **MySQL** schema; all endpoints tested via **Postman**
 
 `Java` `Spring Boot` `MySQL` `JWT` `REST API`
 
 ---
 
-### 🌐 [Developer Portfolio](https://github.com/praveen-devarakota)
-> Responsive personal portfolio built with React to showcase projects and skills.
+### 🏨 [StayFinder](https://github.com/praveen-devarakota/stayfinder)
+> Accommodation booking platform — search, list, and manage properties
 
-`React` `JavaScript` `HTML` `CSS`
+- Designed **REST APIs**, MongoDB schemas, and secure auth with **Express.js**
+- Full MERN stack: React frontend + Node/Express backend + MongoDB
+
+`Node.js` `Express.js` `MongoDB` `React` `REST API`
+
+---
+
+### 🌐 [Developer Portfolio](https://praveen-devarakota.github.io)
+> Personal portfolio — live showcase of projects and skills
+
+`React` `JavaScript` `HTML` `CSS` `Tailwind CSS`
 
 ---
 
@@ -72,7 +92,7 @@ I enjoy turning complex problems into clean, efficient backend solutions — and
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-devarakota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-devarakota&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-devarakota&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=praveen-devarakota&theme=tokyonight&hide_border=true)
 
@@ -82,23 +102,26 @@ I enjoy turning complex problems into clean, efficient backend solutions — and
 
 ## 🏆 Achievements
 
-- 🟡 **Java (Basic)** — HackerRank certified
-- 🐍 **Programming Essentials in Python** — Cisco certified
-- 🧩 **167+ LeetCode problems** solved across arrays, strings, trees, and DP
+| | |
+|---|---|
+| 🟡 | **167+ LeetCode problems solved** — consistent DSA practice |
+| ☕ | **Java (Basic) — HackerRank** certified |
+| 🐍 | **Programming Essentials in Python — Cisco** certified |
+| 📡 | Deployed live geospatial app with real Google Earth Engine satellite data |
 
 ---
 
-## 📬 Connect With Me
+## 📬 Get In Touch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-devarakota)
-[![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsrisaipraveen@gmail.com)
+Building something cool or want to collaborate? I'd love to hear from you.
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-devarakota/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsrisaipraveen@gmail.com)
 
----
+<br/>
 
-<div align="center">
-<sub>⭐ If you find my projects useful, consider giving them a star!</sub>
+<sub>⭐ If any of my projects helped you, a star means a lot!</sub>
+
 </div>
