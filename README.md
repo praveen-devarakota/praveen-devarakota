@@ -92,7 +92,7 @@ Backend-focused developer with hands-on experience designing and shipping REST A
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=praveen-devarakota&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=praveen-devarakota&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="160"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-devarakota&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160"/>
 
