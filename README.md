@@ -92,15 +92,15 @@ Backend-focused developer with hands-on experience designing and shipping REST A
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praveen-devarakoda&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praveen-devarakota&theme=github_dark" height="160"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveen-devarakota&theme=github_dark" height="160"/>
+
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=praveen-devarakota&theme=github-dark-blue&hide_border=true" height="150"/>
 
 </div>
-
 ---
 
 ## Achievements
