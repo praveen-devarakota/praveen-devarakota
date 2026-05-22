@@ -32,7 +32,7 @@ Backend-focused developer with hands-on experience designing and shipping REST A
 
 **Frameworks & Runtime**
 
-<img src="https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs,express,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs,express,react,tailwind,langchain" />
 
 **Databases**
 
