@@ -2,7 +2,8 @@
 
 # Praveen Devarakota
 
-**Backend Developer** &nbsp;·&nbsp; Java · Python · REST APIs
+**GenAI & Backend-Focused Full Stack Developer**  
+Java · Python · REST APIs · RAG Systems · AI Applications
 
 B.Tech Information Technology &nbsp;·&nbsp; VR Siddhartha Engineering College &nbsp;·&nbsp; 2023–2027
 
